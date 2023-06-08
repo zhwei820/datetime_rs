@@ -2,7 +2,7 @@
 
 ```rs
 
-use chrono::{Datelike, NaiveDate, NaiveDateTime, NaiveTime, Weekday};
+use chrono::Weekday;
 use datetime_rs::prelude::*;
 
 fn main() {
